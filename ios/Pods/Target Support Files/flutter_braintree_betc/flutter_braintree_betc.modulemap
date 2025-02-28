@@ -1,0 +1,6 @@
+framework module flutter_braintree_betc {
+  umbrella header "flutter_braintree_betc-umbrella.h"
+
+  export *
+  module * { export * }
+}
